@@ -2,11 +2,12 @@ lst = [10, 20, 50, "He", True]
 
 i = 0
 
+#While Loop
 while(i<len(lst)):
     print(lst[i])
     i+=1
 
-#For Loop
+#For Loop  
 ls= [10, 20, 30, 40]
 for i in ls:
     print(i)
@@ -17,7 +18,8 @@ for item in l:
     print(item)
 
 else:
-    print("done") # this is printed when the loop exhausts!
+    print("done") 
+# this is printed when the loop exhausts! 
 
 
 #Continue and Break
