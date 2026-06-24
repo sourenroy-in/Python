@@ -15,4 +15,3 @@ harry = Employee()
 harry.greet()
 harry.getInfo() 
 # Employee.getInfo(harry)
- 
